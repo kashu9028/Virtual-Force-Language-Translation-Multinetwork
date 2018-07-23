@@ -1,0 +1,2 @@
+# Virtual-Force-Language-Translation-Multinetwork
+When you enable multi-network feature in wordpress,You have separate dashboard for each website in the network.And you have to manage each website from separate dashboard.But what if you want to manage all websites on the single dashboard that is network dashboard. This simple plugin give you feature to add multiple fields in your network settings with language indicators in one place.
